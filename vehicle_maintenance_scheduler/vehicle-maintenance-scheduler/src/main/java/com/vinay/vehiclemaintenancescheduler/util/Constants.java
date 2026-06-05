@@ -1,0 +1,10 @@
+package com.vinay.vehiclemaintenancescheduler.util;
+
+public class Constants {
+
+    public static final String BASE_URL =
+            "http://4.224.186.213/evaluation-service";
+
+    public static final String TOKEN =
+            "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiIyM2JxMWE0OTUxQHZ2aXQubmV0IiwiZXhwIjoxNzgwNjM4OTA5LCJpYXQiOjE3ODA2MzgwMDksImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiJjZjkzNTQ5MS01ODg5LTRjMzctYjliNC1lZDVhZmY0NzgzMTYiLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJ2aW5heSBtYWd1bHVyaSIsInN1YiI6Ijc4YjM2MmY1LTU0ZGUtNGVkNS04ZGVmLTYwNjJlZjdlY2RiZiJ9LCJlbWFpbCI6IjIzYnExYTQ5NTFAdnZpdC5uZXQiLCJuYW1lIjoidmluYXkgbWFndWx1cmkiLCJyb2xsTm8iOiIyM2JxMWE0OTUxIiwiYWNjZXNzQ29kZSI6IlFRZEVZeSIsImNsaWVudElEIjoiNzhiMzYyZjUtNTRkZS00ZWQ1LThkZWYtNjA2MmVmN2VjZGJmIiwiY2xpZW50U2VjcmV0IjoiZWd4U2t6VkRNdnVqVWJqdiJ9.W0VZnfAzobjAscrInCa15d1ahmXrwP3TZgpEn56Z5HQ";
+}
